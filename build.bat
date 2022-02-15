@@ -1,0 +1,1 @@
+napi build --release ./r7z
